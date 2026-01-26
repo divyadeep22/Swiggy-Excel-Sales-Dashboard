@@ -1,31 +1,50 @@
-# Swiggy Sales Analytics Dashboard (Excel)
+# 📊 Swiggy Sales Analytics Dashboard (Excel)
 
-![Dashboard Preview](Swiggy_Dashboard_Preview.png)
+An end-to-end **Sales Analytics Dashboard built in Microsoft Excel** to analyze Swiggy’s sales performance across multiple dimensions such as time, geography, category, restaurant, and food type.
 
-## 📌 Overview
+This project demonstrates how **Excel can be used as a powerful business analytics and visualization tool** to convert raw transactional data into clear, decision-ready insights.
 
-This project is an end-to-end **business analytics dashboard built in Microsoft Excel** to analyze Swiggy sales performance across multiple dimensions such as time, geography, category, restaurant, and food type.
+---
 
-The dashboard is designed to help a business or operations team quickly:
-- Track overall performance
-- Identify growth and seasonality patterns
-- Compare city and state-wise performance
-- Understand customer ordering behavior
+## 🖼️ Dashboard Preview
+
+![Swiggy Sales Dashboard](Swiggy_Dashboard_Preview.png)
+
+---
+
+## 📌 Project Overview
+
+Food delivery platforms like Swiggy generate massive volumes of order data, but raw data alone does not help in decision-making.
+
+This dashboard is designed to help business and operations teams:
+
+- Track overall sales performance
+- Identify growth trends and seasonality
+- Compare performance across cities and states
+- Understand customer ordering behavior and preferences
+- Analyze category and restaurant-level contribution
 
 ---
 
 ## 🎯 Business Problem
 
-Food delivery businesses generate large volumes of transactional data, but raw data alone does not help decision-making.
+Management teams need a **single, interactive view** to answer questions like:
+
+- How are sales trending over time?
+- Which cities and states are driving the most revenue?
+- Which categories and food types perform best?
+- What are the peak ordering days and periods?
+- Which restaurants and locations contribute the most?
 
 This dashboard solves that by:
+
 - Converting raw sales data into **actionable insights**
 - Providing **management-level KPIs at a glance**
-- Enabling **drill-down analysis** using interactive filters
+- Enabling **drill-down analysis using interactive filters**
 
 ---
 
-## 📊 Key Metrics Tracked
+## 📊 Key KPIs Tracked
 
 - Total Sales
 - Total Orders
@@ -49,11 +68,11 @@ This dashboard solves that by:
 
 ---
 
-## 🛠 Tools & Techniques Used
+## 🛠️ Tools & Techniques Used
 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
-- Slicers & Timeline filters
+- Slicers & Timeline Filters
 - Conditional Formatting
 - KPI Cards & Dynamic Charts
 - Excel Map Chart for geographic analysis
@@ -62,7 +81,7 @@ This dashboard solves that by:
 
 ## 💡 Key Insights Generated
 
-- Identifies **top performing cities and regions**
+- Identifies **top-performing cities and regions**
 - Highlights **peak sales periods and seasonal trends**
 - Shows **which food categories and types drive maximum revenue**
 - Helps understand **weekly and daily demand patterns**
@@ -70,11 +89,11 @@ This dashboard solves that by:
 
 ---
 
-## 📂 Files in This Repository
+## 📁 Files in This Repository
 
-- `Swiggy_Sales_Dashboard.xlsb` → Interactive Excel dashboard file  
-- `Swiggy_Dashboard_Preview.png` → Dashboard preview image  
-- `README.md` → Project documentation
+- `Swiggy_Sales_Dashboard.xlsb` – Main interactive Excel dashboard  
+- `Swiggy_Dashboard_Preview.png` – Dashboard preview image  
+- `README.md` – Project documentation  
 
 ---
 
@@ -82,7 +101,7 @@ This dashboard solves that by:
 
 1. Download `Swiggy_Sales_Dashboard.xlsb`
 2. Open in Microsoft Excel (Desktop version recommended)
-3. Use slicers on the left to filter by:
+3. Use slicers to filter by:
    - Month
    - Restaurant
    - Category
@@ -90,10 +109,20 @@ This dashboard solves that by:
 
 ---
 
-## 👤 About This Project
+## 🎯 What This Project Demonstrates
 
-This project was created as part of my **analytics and business intelligence portfolio** to demonstrate:
-- Data analysis thinking
+- Strong Excel-based data analysis skills
 - Business-oriented dashboard design
-- Strong Excel and visualization skills
-- Ability to convert raw data into decision-ready insights
+- Data storytelling using charts and KPIs
+- Ability to convert raw data into management-ready insights
+- Understanding of sales, operations, and performance analytics
+
+---
+
+## 👤 Author
+
+**Divyadeep Jakhar**  
+MBA (Marketing & HR)  
+Aspiring Business Analyst  
+
+🔗 LinkedIn: https://www.linkedin.com/in/divyadeep-jakhar/
